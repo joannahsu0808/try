@@ -5,6 +5,8 @@
         <title>appication</title>
     </head>
     <body>
-        <video src="IMG_6901.MOV" controls></video>
+        <video controls>
+    <source src="IMG_6901.MOV" type="video/mp4; codecs='avc1, mp4a'">
+</video>
     </body>
 </html>
